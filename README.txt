@@ -5,7 +5,7 @@ si desea ejecutar este archivo en su PC, lo primero es descargar todos los archi
 colocarlos en una carpeta(de preferencia escritorio o documentos), entrar al simulador 
 proteus y abrir el archivo, en el simulador estarán 3 componentes, 
 un arduino(libreria simulino), un LCD y el sensor DHT11. Dar doble click en el arduino 
-y escoger el archivo .HEX (de preferencia el standard, NO EL BOOTLOADER).
+y escoger el archivo Termometro_Stiff3103.ino.standard.hex.
 
 para su correcto funcionamiento necesitas instalar las librerias de DHT11 y arduino(Simulino).
 

@@ -28,7 +28,6 @@ void setup(){
   lcd.print("CHIM PECH  ");
   delay(1500);
   lcd.clear();
-  
   lcd.setCursor(1, 0);
   lcd.print("  GASPAR  ");
   lcd.setCursor(0, 1);
